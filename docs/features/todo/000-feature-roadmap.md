@@ -5,6 +5,12 @@ Provide a release plan that sequences all Skool-style capabilities into bite-siz
 
 ## Epic Overview
 
+### E0 — Brand Story & Marketing Site (023)
+**Capability Goal**: Communicate the platform value on the public landing page with updated messaging, visuals, and CTAs while reusing the current layout.
+
+**Features**
+- 023 — Home / landing page refresh
+
 ### E1 — Community Publishing & Engagement (001-007)
 **Capability Goal**: Stand up the community feed, posting workflow, attachments, moderation, and threaded replies so members and admins can collaborate.
 
@@ -58,7 +64,8 @@ Provide a release plan that sequences all Skool-style capabilities into bite-siz
 - Share primitives (uploaders, loaders, query hooks) across stories to reduce rework.
 
 ## Success Metrics
-- Weekly active posters/comments (E1 health).
+- Marketing site conversion to sign-up CTA (E0).
+- Weekly active posters/comments (E1).
 - Event attendance rate and classroom completion percentage (E2).
 - Profile completeness + directory searches per user (E3).
 - Message delivery latency and notification open rate (E4).
